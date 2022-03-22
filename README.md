@@ -1,2 +1,2 @@
-# Mein Repositorium
+# Mein Repositorium im Workshop
 - Lia Heilmann
